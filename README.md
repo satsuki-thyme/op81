@@ -1,4 +1,4 @@
-# ChatGPTが64文字のプロンプトで6万文字の中世ヨーロッパ風ファンタジーを書いてくれた！
+# 何でもできる天才魔法使いですが、女騎士に任せることだけはできません
 
 - Concept, Direction & Product Ownership: Satsuki Thyme
 - AI-assisted Engineering: ChatGPT by OpenAI
