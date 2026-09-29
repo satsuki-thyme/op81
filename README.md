@@ -1,7 +1,7 @@
 # 何でもできる天才魔法使いですが、女騎士に任せることだけはできません
 
-- Concept, Direction & Product Ownership: Satsuki Thyme
-- AI-assisted Engineering: ChatGPT by OpenAI
+- コンセプト, ディレクション, プロダクトオーナーシップ: 五月タイム
+- AI支援エンジニアリング: ChatGPT by OpenAI
 
 ## 文書
 
